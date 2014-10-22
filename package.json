@@ -1,6 +1,6 @@
 {
-  "name": "srt2vtt",
-  "version": "0.0.1",
+  "name": "srt2vtt2",
+  "version": "0.0.2",
   "description": "Converts .srt's to .vtt's",
   "main": "index.js",
   "scripts": {

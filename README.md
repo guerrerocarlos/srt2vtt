@@ -6,7 +6,7 @@ Converts .srt subtitles into vtt format
 ## How to use it:
 
 ``` javascript
-var srt2vtt = require("../index")
+var srt2vtt = require("srt2vtt2")
 
 var subtitles = "./test/subtitles.srt"
 
@@ -20,7 +20,7 @@ srt2vtt(subtitles, function(err, result){
 
 With [npm](http://npmjs.org):
 
-[![NPM](https://nodei.co/npm/srt2vtt.png?downloads=true)](https://nodei.co/npm/srt2vtt/)
+[![NPM](https://nodei.co/npm/srt2vtt2.png?downloads=true)](https://nodei.co/npm/srt2vtt2/)
 
 ## Kudos
 
